@@ -399,3 +399,5 @@ GPU 矩阵乘法测试通过
 | VS Code 连接 WSL | `code .`（在 WSL 终端中执行） |
 
 ---
+## 安装结束后在此环境使用Agent可以继续看指南
+![Agent安装示例：Deepseekv4pro/flash + Reasonix](/Agent(Deepseekv4%2BReasonix).md)
